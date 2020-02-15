@@ -1,0 +1,12 @@
+name = "Jupp Gohugo Theme"
+license = "CC-BY-4.0"
+licenselink = "https://creativecommons.org/licenses/by/4.0/legalcode)"
+description = "Jupp's very own hugo theme
+homepage = "http://example.com/at/present/there/is/no/homepage/available"
+tags = ["website", "starter", "responsive"]
+features = ["posts", "shortcodes", "related content", "comments"]
+min_version = "0.60.0"
+
+[author]
+  name = "Josef Schugt"
+  homepage = "http://jupp-aus-mehlem.de"
